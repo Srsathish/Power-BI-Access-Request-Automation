@@ -1,4 +1,4 @@
-# Power BI Access Request Automation
+# Power BI Access Request & Approval Automation
 
 ## Project Overview
 Managing Power BI workspace and report access manually can lead to delays, security risks, and lack of auditability.  
