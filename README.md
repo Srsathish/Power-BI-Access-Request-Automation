@@ -46,9 +46,3 @@ An automated **access request and approval workflow** was implemented using **Po
 - 📋 Full audit trail for compliance
 - 📉 Reduced BI admin workload
 
-
-
-## Key Learnings
-- Approval workflows enhance BI governance
-- Automation reduces access-related errors
-- Audit logs improve compliance readiness
